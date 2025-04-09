@@ -2,7 +2,7 @@ Forked from facebookresearch/Lyapunov.
 
 **Colab exploration**
 
-[Open in Google Colab]([https://colab.research.google.com/drive/YOUR_NOTEBOOK_ID](https://colab.research.google.com/drive/1t_0Owo-fQ0CBYJeTEj3Cld28s_WH_k8T?usp=sharing))
+[Open in Google Colab](https://colab.research.google.com/drive/1t_0Owo-fQ0CBYJeTEj3Cld28s_WH_k8T?usp=sharing)
 
 **Requirements**
  - Requirements are contained in Lyapunov.yml, you can setup a conda env with
